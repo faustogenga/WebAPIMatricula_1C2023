@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Api.Dto.Residencia/1.0.0": {
+        "dependencies": {
+          "Api.Dto.General": "1.0.0"
+        },
+        "runtime": {
+          "Api.Dto.Residencia.dll": {}
+        }
+      },
+      "Api.Dto.General/1.0.0": {
+        "runtime": {
+          "Api.Dto.General.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Api.Dto.Residencia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Api.Dto.General/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

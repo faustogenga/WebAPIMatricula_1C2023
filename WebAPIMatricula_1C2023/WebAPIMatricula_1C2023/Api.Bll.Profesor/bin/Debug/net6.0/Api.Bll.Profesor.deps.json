@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Api.Bll.Profesor/1.0.0": {
+        "dependencies": {
+          "Api.Dto.General": "1.0.0",
+          "Api.Dto.Profesor": "1.0.0"
+        },
+        "runtime": {
+          "Api.Bll.Profesor.dll": {}
+        }
+      },
+      "Api.Dto.General/1.0.0": {
+        "runtime": {
+          "Api.Dto.General.dll": {}
+        }
+      },
+      "Api.Dto.Profesor/1.0.0": {
+        "dependencies": {
+          "Api.Dto.General": "1.0.0"
+        },
+        "runtime": {
+          "Api.Dto.Profesor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Api.Bll.Profesor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Api.Dto.General/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Api.Dto.Profesor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

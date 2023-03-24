@@ -1,0 +1,60 @@
+C:\Users\tomas\OneDrive\Desktop\2023\Servicios Web - J\VS\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.Carrera.deps.json
+C:\Users\tomas\OneDrive\Desktop\2023\Servicios Web - J\VS\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.Carrera.dll
+C:\Users\tomas\OneDrive\Desktop\2023\Servicios Web - J\VS\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.Carrera.pdb
+C:\Users\tomas\OneDrive\Desktop\2023\Servicios Web - J\VS\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.General.dll
+C:\Users\tomas\OneDrive\Desktop\2023\Servicios Web - J\VS\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.General.pdb
+C:\Users\tomas\OneDrive\Desktop\2023\Servicios Web - J\VS\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Desktop\2023\Servicios Web - J\VS\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive\Desktop\2023\Servicios Web - J\VS\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive\Desktop\2023\Servicios Web - J\VS\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.AssemblyInfo.cs
+C:\Users\tomas\OneDrive\Desktop\2023\Servicios Web - J\VS\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\2023\Servicios Web - J\VS\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.csproj.CopyComplete
+C:\Users\tomas\OneDrive\Desktop\2023\Servicios Web - J\VS\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.dll
+C:\Users\tomas\OneDrive\Desktop\2023\Servicios Web - J\VS\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\refint\Api.Dto.Carrera.dll
+C:\Users\tomas\OneDrive\Desktop\2023\Servicios Web - J\VS\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.pdb
+C:\Users\tomas\OneDrive\Desktop\2023\Servicios Web - J\VS\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\ref\Api.Dto.Carrera.dll
+C:\Users\faust\Desktop\Temp Trash\Proyecto - C#\Proyecto - C#\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.Carrera.deps.json
+C:\Users\faust\Desktop\Temp Trash\Proyecto - C#\Proyecto - C#\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.Carrera.dll
+C:\Users\faust\Desktop\Temp Trash\Proyecto - C#\Proyecto - C#\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.Carrera.pdb
+C:\Users\faust\Desktop\Temp Trash\Proyecto - C#\Proyecto - C#\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.General.dll
+C:\Users\faust\Desktop\Temp Trash\Proyecto - C#\Proyecto - C#\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.General.pdb
+C:\Users\faust\Desktop\Temp Trash\Proyecto - C#\Proyecto - C#\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.csproj.AssemblyReference.cache
+C:\Users\faust\Desktop\Temp Trash\Proyecto - C#\Proyecto - C#\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faust\Desktop\Temp Trash\Proyecto - C#\Proyecto - C#\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.AssemblyInfoInputs.cache
+C:\Users\faust\Desktop\Temp Trash\Proyecto - C#\Proyecto - C#\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.AssemblyInfo.cs
+C:\Users\faust\Desktop\Temp Trash\Proyecto - C#\Proyecto - C#\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.csproj.CoreCompileInputs.cache
+C:\Users\faust\Desktop\Temp Trash\Proyecto - C#\Proyecto - C#\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.csproj.CopyComplete
+C:\Users\faust\Desktop\Temp Trash\Proyecto - C#\Proyecto - C#\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.dll
+C:\Users\faust\Desktop\Temp Trash\Proyecto - C#\Proyecto - C#\Api.Dto.Carrera\obj\Debug\net6.0\refint\Api.Dto.Carrera.dll
+C:\Users\faust\Desktop\Temp Trash\Proyecto - C#\Proyecto - C#\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.pdb
+C:\Users\faust\Desktop\Temp Trash\Proyecto - C#\Proyecto - C#\Api.Dto.Carrera\obj\Debug\net6.0\ref\Api.Dto.Carrera.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.Carrera.deps.json
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.Carrera.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.Carrera.pdb
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.General.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.General.pdb
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.csproj.AssemblyReference.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.AssemblyInfoInputs.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.AssemblyInfo.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.csproj.CoreCompileInputs.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.csproj.CopyComplete
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\refint\Api.Dto.Carrera.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.pdb
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\ref\Api.Dto.Carrera.dll
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.Carrera.deps.json
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.Carrera.dll
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.Carrera.pdb
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.General.dll
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\bin\Debug\net6.0\Api.Dto.General.pdb
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.csproj.AssemblyReference.cache
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.AssemblyInfoInputs.cache
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.AssemblyInfo.cs
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.csproj.CoreCompileInputs.cache
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.csproj.CopyComplete
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.dll
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\refint\Api.Dto.Carrera.dll
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\Api.Dto.Carrera.pdb
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Carrera\obj\Debug\net6.0\ref\Api.Dto.Carrera.dll

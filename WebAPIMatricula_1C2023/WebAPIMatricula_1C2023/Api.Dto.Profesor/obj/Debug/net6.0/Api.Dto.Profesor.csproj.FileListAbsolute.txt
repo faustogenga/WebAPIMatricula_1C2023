@@ -1,0 +1,75 @@
+C:\matriculaSana\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.Profesor.deps.json
+C:\matriculaSana\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.Profesor.dll
+C:\matriculaSana\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.Profesor.pdb
+C:\matriculaSana\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.General.dll
+C:\matriculaSana\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.General.pdb
+C:\matriculaSana\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.csproj.AssemblyReference.cache
+C:\matriculaSana\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.GeneratedMSBuildEditorConfig.editorconfig
+C:\matriculaSana\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.AssemblyInfoInputs.cache
+C:\matriculaSana\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.AssemblyInfo.cs
+C:\matriculaSana\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.csproj.CoreCompileInputs.cache
+C:\matriculaSana\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.csproj.CopyComplete
+C:\matriculaSana\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.dll
+C:\matriculaSana\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\refint\Api.Dto.Profesor.dll
+C:\matriculaSana\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.pdb
+C:\matriculaSana\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\ref\Api.Dto.Profesor.dll
+C:\matriculaSana\WebAPIMatricula_1C2023 (2) (1)\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.Profesor.deps.json
+C:\matriculaSana\WebAPIMatricula_1C2023 (2) (1)\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.Profesor.dll
+C:\matriculaSana\WebAPIMatricula_1C2023 (2) (1)\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.Profesor.pdb
+C:\matriculaSana\WebAPIMatricula_1C2023 (2) (1)\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.General.dll
+C:\matriculaSana\WebAPIMatricula_1C2023 (2) (1)\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.General.pdb
+C:\matriculaSana\WebAPIMatricula_1C2023 (2) (1)\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.csproj.AssemblyReference.cache
+C:\matriculaSana\WebAPIMatricula_1C2023 (2) (1)\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.GeneratedMSBuildEditorConfig.editorconfig
+C:\matriculaSana\WebAPIMatricula_1C2023 (2) (1)\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.AssemblyInfoInputs.cache
+C:\matriculaSana\WebAPIMatricula_1C2023 (2) (1)\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.AssemblyInfo.cs
+C:\matriculaSana\WebAPIMatricula_1C2023 (2) (1)\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.csproj.CoreCompileInputs.cache
+C:\matriculaSana\WebAPIMatricula_1C2023 (2) (1)\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.csproj.CopyComplete
+C:\matriculaSana\WebAPIMatricula_1C2023 (2) (1)\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.dll
+C:\matriculaSana\WebAPIMatricula_1C2023 (2) (1)\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\refint\Api.Dto.Profesor.dll
+C:\matriculaSana\WebAPIMatricula_1C2023 (2) (1)\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.pdb
+C:\matriculaSana\WebAPIMatricula_1C2023 (2) (1)\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\ref\Api.Dto.Profesor.dll
+C:\Users\faust\Desktop\Temp Trash\C#\C#\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.Profesor.deps.json
+C:\Users\faust\Desktop\Temp Trash\C#\C#\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.Profesor.dll
+C:\Users\faust\Desktop\Temp Trash\C#\C#\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.Profesor.pdb
+C:\Users\faust\Desktop\Temp Trash\C#\C#\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.General.dll
+C:\Users\faust\Desktop\Temp Trash\C#\C#\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.General.pdb
+C:\Users\faust\Desktop\Temp Trash\C#\C#\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.csproj.AssemblyReference.cache
+C:\Users\faust\Desktop\Temp Trash\C#\C#\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faust\Desktop\Temp Trash\C#\C#\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.AssemblyInfoInputs.cache
+C:\Users\faust\Desktop\Temp Trash\C#\C#\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.AssemblyInfo.cs
+C:\Users\faust\Desktop\Temp Trash\C#\C#\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.csproj.CoreCompileInputs.cache
+C:\Users\faust\Desktop\Temp Trash\C#\C#\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.csproj.CopyComplete
+C:\Users\faust\Desktop\Temp Trash\C#\C#\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.dll
+C:\Users\faust\Desktop\Temp Trash\C#\C#\Api.Dto.Profesor\obj\Debug\net6.0\refint\Api.Dto.Profesor.dll
+C:\Users\faust\Desktop\Temp Trash\C#\C#\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.pdb
+C:\Users\faust\Desktop\Temp Trash\C#\C#\Api.Dto.Profesor\obj\Debug\net6.0\ref\Api.Dto.Profesor.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.Profesor.deps.json
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.Profesor.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.Profesor.pdb
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.General.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.General.pdb
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.csproj.AssemblyReference.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.AssemblyInfoInputs.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.AssemblyInfo.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.csproj.CoreCompileInputs.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.csproj.CopyComplete
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\refint\Api.Dto.Profesor.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.pdb
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\ref\Api.Dto.Profesor.dll
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.Profesor.deps.json
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.Profesor.dll
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.Profesor.pdb
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.General.dll
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\bin\Debug\net6.0\Api.Dto.General.pdb
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.csproj.AssemblyReference.cache
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.AssemblyInfoInputs.cache
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.AssemblyInfo.cs
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.csproj.CoreCompileInputs.cache
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.csproj.CopyComplete
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.dll
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\refint\Api.Dto.Profesor.dll
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\Api.Dto.Profesor.pdb
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Profesor\obj\Debug\net6.0\ref\Api.Dto.Profesor.dll

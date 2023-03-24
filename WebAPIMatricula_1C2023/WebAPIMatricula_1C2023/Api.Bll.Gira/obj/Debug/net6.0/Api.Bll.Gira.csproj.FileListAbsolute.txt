@@ -1,0 +1,34 @@
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\bin\Debug\net6.0\Api.Bll.Gira.deps.json
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\bin\Debug\net6.0\Api.Bll.Gira.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\bin\Debug\net6.0\Api.Bll.Gira.pdb
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\bin\Debug\net6.0\Api.Dto.General.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\bin\Debug\net6.0\Api.Dto.Gira.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\bin\Debug\net6.0\Api.Dto.General.pdb
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\bin\Debug\net6.0\Api.Dto.Gira.pdb
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\Api.Bll.Gira.csproj.AssemblyReference.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\Api.Bll.Gira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\Api.Bll.Gira.AssemblyInfoInputs.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\Api.Bll.Gira.AssemblyInfo.cs
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\Api.Bll.Gira.csproj.CoreCompileInputs.cache
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\Api.Bll.Gira.csproj.CopyComplete
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\Api.Bll.Gira.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\refint\Api.Bll.Gira.dll
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\Api.Bll.Gira.pdb
+C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\ref\Api.Bll.Gira.dll
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\bin\Debug\net6.0\Api.Bll.Gira.deps.json
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\bin\Debug\net6.0\Api.Bll.Gira.dll
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\bin\Debug\net6.0\Api.Bll.Gira.pdb
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\bin\Debug\net6.0\Api.Dto.General.dll
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\bin\Debug\net6.0\Api.Dto.Gira.dll
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\bin\Debug\net6.0\Api.Dto.General.pdb
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\bin\Debug\net6.0\Api.Dto.Gira.pdb
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\Api.Bll.Gira.csproj.AssemblyReference.cache
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\Api.Bll.Gira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\Api.Bll.Gira.AssemblyInfoInputs.cache
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\Api.Bll.Gira.AssemblyInfo.cs
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\Api.Bll.Gira.csproj.CoreCompileInputs.cache
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\Api.Bll.Gira.csproj.CopyComplete
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\Api.Bll.Gira.dll
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\refint\Api.Bll.Gira.dll
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\Api.Bll.Gira.pdb
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Bll.Gira\obj\Debug\net6.0\ref\Api.Bll.Gira.dll

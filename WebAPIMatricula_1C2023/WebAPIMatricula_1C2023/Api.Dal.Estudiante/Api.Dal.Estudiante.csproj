@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Options" Version="7.0.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Api.Bll.Estudiante\Api.Bll.Estudiante.csproj" />
+    <ProjectReference Include="..\Api.Dal.General\Api.Dal.General.csproj" />
+    <ProjectReference Include="..\Api.Dto.Estudiante\Api.Dto.Estudiante.csproj" />
+    <ProjectReference Include="..\Api.Dto.General\Api.Dto.General.csproj" />
+  </ItemGroup>
+
+</Project>

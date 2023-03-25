@@ -25,8 +25,7 @@ namespace UI.WebMatricula1C2023.Controllers
             var colores = new List<string>();
             var valores = new List<string>();
 
-            foreach(var estado in listaEstudiantes.ListaEstudiantes.GroupBy(e => e.Estado)
-                .Select(group => new { 
+            foreach(var estado in listaEstudiantes.ListaEstudiantes.GroupBy(e => e.Estado).Select(group => new { 
                     Estado = group.Key,
                     Cantidad = group.Count()
                 }).OrderBy(x => x.Estado))

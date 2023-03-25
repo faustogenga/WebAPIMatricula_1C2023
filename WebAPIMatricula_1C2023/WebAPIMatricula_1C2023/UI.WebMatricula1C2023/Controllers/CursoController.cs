@@ -14,8 +14,7 @@ namespace UI.WebMatricula1C2023.Controllers
         // GET: CursoController
         public async Task<IActionResult> Index()
         {
-            Models.Curso.Entrada.VerTodosCursos parametros = 
-                new Models.Curso.Entrada.VerTodosCursos();
+            Models.Curso.Entrada.VerTodosCursos parametros = new Models.Curso.Entrada.VerTodosCursos();
 
             var usuarioActual = HttpContext.Session.GetObjectFromJson<Models.Users.User>("UsuarioActual");
 
@@ -33,7 +32,6 @@ namespace UI.WebMatricula1C2023.Controllers
             }).OrderBy(x => x.Estado))
             {
                 string color = String.Format("#{0:X6}", random.Next(0x1000000));
-
                 etiquetas.Add(estado.Estado);
                 valores.Add(estado.Cantidad.ToString());
                 colores.Add(color);
@@ -45,73 +43,49 @@ namespace UI.WebMatricula1C2023.Controllers
             return View(listaCursos.ListaCursos);
         }
 
-        // GET: CursoController/Details/5
-        public ActionResult Details(int id)
-        {
-            return View();
-        }
-
-        // GET: CursoController/Create
-        public ActionResult Create()
-        {
-            return View();
-        }
-
-        // POST: CursoController/Create
         [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public async Task<JsonResult> AgregarCurso(Models.Curso.Entrada.AgregarCurso agregarCurso)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            var usuarioActual = HttpContext.Session.GetObjectFromJson<Models.Users.User>("UsuarioActual");
+            var codigo = await lnCurso.AgregarCurso(agregarCurso, usuarioActual.Token);
+
+            if (codigo != null)
+                return Json(String.Format("El curso: {0} ha sido ingresado con éxito.", agregarCurso.Nombre));
+            else
+                return Json(String.Format("El curso: {0} no fue ingresado.", agregarCurso));
         }
 
-        // GET: CursoController/Edit/5
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
-
-        // POST: CursoController/Edit/5
         [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public async Task<JsonResult> EditarCurso(Models.Curso.Entrada.EditarCurso editarCurso)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            var usuarioActual = HttpContext.Session.GetObjectFromJson<Models.Users.User>("UsuarioActual");
+            var codigo = await lnCurso.EditarCurso(editarCurso, usuarioActual.Token);
+
+            if (codigo != null)
+                return Json(String.Format("El Curso: {0} ha sido modificado con éxito.", editarCurso.Nombre));
+            else
+                return Json(String.Format("El Curso: {0} no fue modificado.", editarCurso.Nombre));
         }
 
-        // GET: CursoController/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        // POST: CursoController/Delete/5
         [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public async Task<JsonResult> EliminarCurso(Models.Curso.Entrada.EliminarCurso eliminarCurso)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            var usuarioActual = HttpContext.Session.GetObjectFromJson<Models.Users.User>("UsuarioActual");
+            var codigo = await lnCurso.EliminarCurso(eliminarCurso, usuarioActual.Token);
+
+            if (codigo != null)
+                return Json(String.Format("El Curso: {0} ha sido eliminado con éxito.", eliminarCurso.Codigo));
+            else
+                return Json(String.Format("El Curso: {0} no fue eliminado.", eliminarCurso.Codigo));
+        }
+
+        [HttpPost]
+        public async Task<JsonResult> VerDetalleCurso(Models.Curso.Entrada.VerDetalleCurso verDetalleCurso)
+        {
+            var usuarioActual = HttpContext.Session.GetObjectFromJson<Models.Users.User>("UsuarioActual");
+            var respuesta = await lnCurso.VerDetalleCurso(verDetalleCurso, usuarioActual.Token);
+
+            return Json(respuesta);
         }
     }
 }

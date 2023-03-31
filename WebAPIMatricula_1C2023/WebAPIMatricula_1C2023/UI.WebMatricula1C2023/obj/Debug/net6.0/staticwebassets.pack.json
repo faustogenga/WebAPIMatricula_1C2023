@@ -181,12 +181,28 @@
       "PackagePath": "staticwebassets\\UI.WebMatricula1C2023.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\css\\dashboard.css",
+      "PackagePath": "staticwebassets\\css\\dashboard.css"
+    },
+    {
       "Id": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\img\\ULACIT.png",
+      "PackagePath": "staticwebassets\\img\\ULACIT.png"
+    },
+    {
+      "Id": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\Estudiante.js",
+      "PackagePath": "staticwebassets\\js\\Estudiante.js"
+    },
+    {
+      "Id": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\dashboard.js"
     },
     {
       "Id": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\site.js",

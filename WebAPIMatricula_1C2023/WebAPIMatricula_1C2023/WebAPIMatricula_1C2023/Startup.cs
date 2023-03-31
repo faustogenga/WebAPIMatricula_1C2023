@@ -121,6 +121,7 @@ namespace WebMatricula1C2023
 
             app.UseAuthentication();
             //USO DE WEB Api CON JWT
+
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

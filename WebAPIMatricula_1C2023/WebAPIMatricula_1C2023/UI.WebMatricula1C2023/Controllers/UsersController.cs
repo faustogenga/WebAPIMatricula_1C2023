@@ -32,5 +32,30 @@ namespace UI.WebMatricula1C2023.Controllers
                 await response.Content.ReadAsStringAsync());
 
         }
+
+        public async Task<User> Register(string Identificacion, string NombreCompleto, string CorreoElectronico, string Username, string Password, string Estado)
+        {
+            RegisterModel registerModel = new RegisterModel()
+            {
+                Identificacion = Identificacion,
+                NombreCompleto = NombreCompleto,
+                CorreoElectronico = CorreoElectronico,
+                Username = Username,
+                Password = Password,
+                Estado = Estado
+            };
+
+            HttpClient client = new HttpClient();
+
+            System.Net.ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
+
+            var response = client.PostAsync(string.Concat(UrlBaseAuth, "register/"),
+                new StringContent(
+                    JsonConvert.SerializeObject(registerModel),
+                    Encoding.UTF8, "application/json")).GetAwaiter().GetResult();
+
+            return JsonConvert.DeserializeObject<User>(
+              await response.Content.ReadAsStringAsync());
+        }
     }
 }

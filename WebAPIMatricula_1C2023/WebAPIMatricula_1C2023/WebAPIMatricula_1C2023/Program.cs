@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WebApiMatricula_1C2023;
+using WebMatricula1C2023;
 
 namespace WebAPIMatricula
 {

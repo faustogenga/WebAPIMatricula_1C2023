@@ -16,6 +16,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\UI.WebMatricula1C2023
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Acceso/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Acceso/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXFJlZ2lzdHJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Estudiante/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -24,8 +36,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Perfil/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyZmlsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Shared/_ExternalLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FeHRlcm5hbExheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Shared/_ValidationScriptsPartial.cshtml]

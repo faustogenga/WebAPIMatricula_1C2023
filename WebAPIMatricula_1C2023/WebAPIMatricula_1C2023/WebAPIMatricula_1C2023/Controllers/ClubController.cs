@@ -3,7 +3,7 @@ using Api.Bll.Club;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace WebAPIMatricula_1C2023.Controllers
+namespace WebMatricula1C2023.Controllers
 {
 
     [Route("Api/v1" + "/[controller]")]

@@ -3,7 +3,7 @@ using Api.Bll.Estudiante.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace WebApiMatricula_1C2023.Controllers
+namespace WebMatricula1C2023.Controllers
 {
     [Route("Api/v1" + "/[controller]")]
     [ApiController]

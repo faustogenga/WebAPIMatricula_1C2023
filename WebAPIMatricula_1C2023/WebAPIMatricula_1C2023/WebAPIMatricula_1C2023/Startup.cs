@@ -25,7 +25,7 @@ using System.Text;
 using WebAPI;
 using WebAPI.Services;
 
-namespace WebApiMatricula_1C2023
+namespace WebMatricula1C2023
 {
     public class Startup
     {

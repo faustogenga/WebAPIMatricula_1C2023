@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Api.Bll.VehiculoMarchamo;
 
-namespace WebAPIMatricula_1C2023.Controllers
+namespace WebMatricula1C2023.Controllers
 {
 
     [Route("Api/v1" + "/[controller]")]

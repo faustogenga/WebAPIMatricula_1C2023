@@ -5,6 +5,7 @@ using System.Diagnostics;
 using System.Security.Claims;
 using UI.WebMatricula1C2023.Logica;
 using UI.WebMatricula1C2023.Models;
+using System.Runtime.CompilerServices;
 
 namespace UI.WebMatricula1C2023.Controllers
 {
@@ -55,10 +56,35 @@ namespace UI.WebMatricula1C2023.Controllers
             return RedirectToAction("Index", "Acceso");
         }
 
-        public IActionResult Registro()
+        public ActionResult Registro()
         {
             return View();
         }
+
+        public async Task<ActionResult> Registrarme(Models.Users.RegisterModel pDatos)
+        {
+            if (!string.IsNullOrEmpty(pDatos.Identificacion) && !string.IsNullOrEmpty(pDatos.NombreCompleto) && !string.IsNullOrEmpty(pDatos.CorreoElectronico) && !string.IsNullOrEmpty(pDatos.Username) && !string.IsNullOrEmpty(pDatos.Password) && !string.IsNullOrEmpty(pDatos.Estado))
+            {
+                UsersController usersController = new UsersController();
+                var usuario =  await usersController.Register(pDatos.Identificacion, pDatos.NombreCompleto, pDatos.CorreoElectronico, pDatos.Username, pDatos.Password, pDatos.Estado);
+
+                if (usuario == null || usuario.Equals(""))
+                {
+                    
+                    TempData["RegistrationSuccessMessage"] = "Your account has been registered successfully.";
+                    return View("Registro");
+                }
+                else
+                {
+                    ModelState.AddModelError("LogOnError", "Registro incorrecto.");
+                    return View("Registro");
+                }
+            }
+            else
+                ModelState.AddModelError("LogOnError", "Llenar todos los campos");
+                return View("Registro");
+        }
+        
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

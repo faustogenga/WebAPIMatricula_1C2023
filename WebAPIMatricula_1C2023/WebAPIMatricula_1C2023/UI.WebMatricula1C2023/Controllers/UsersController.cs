@@ -32,7 +32,7 @@ namespace UI.WebMatricula1C2023.Controllers
                 await response.Content.ReadAsStringAsync());
 
         }
-
+        
         public async Task<User> Register(string Identificacion, string NombreCompleto, string CorreoElectronico, string Username, string Password, string Estado)
         {
             RegisterModel registerModel = new RegisterModel()
@@ -57,5 +57,6 @@ namespace UI.WebMatricula1C2023.Controllers
             return JsonConvert.DeserializeObject<User>(
               await response.Content.ReadAsStringAsync());
         }
+        
     }
 }

@@ -72,7 +72,7 @@ namespace UI.WebMatricula1C2023.Controllers
                 {
                     
                     TempData["RegistrationSuccessMessage"] = "Your account has been registered successfully.";
-                    return View("Registro");
+                    return View("Index");
                 }
                 else
                 {

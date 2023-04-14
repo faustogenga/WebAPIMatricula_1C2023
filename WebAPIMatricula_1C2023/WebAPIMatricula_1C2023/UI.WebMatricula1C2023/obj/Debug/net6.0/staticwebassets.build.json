@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "82RSKFYyYre10RZswjNqJ/F8S5pg2AFZi5seTLnuFMs=",
+  "Hash": "2Pz/cMB07xj24wBf3faOq6kYje3e2n5H9YLSOdwH8qo=",
   "Source": "UI.WebMatricula1C2023",
   "BasePath": "_content/UI.WebMatricula1C2023",
   "Mode": "Default",
@@ -916,6 +916,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Estudiante.js"
+    },
+    {
+      "Identity": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\Gira.js",
+      "SourceId": "UI.WebMatricula1C2023",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\",
+      "BasePath": "_content/UI.WebMatricula1C2023",
+      "RelativePath": "js/Gira.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Gira.js"
     },
     {
       "Identity": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\site.js",

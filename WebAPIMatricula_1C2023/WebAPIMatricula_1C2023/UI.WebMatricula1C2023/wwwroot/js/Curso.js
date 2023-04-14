@@ -11,7 +11,7 @@
         ]
     });
 
-    $("#btnMensajeExitoso").click(function () {
+    $("#btnMensajeExitosoCurso").click(function () {
         $('#modalVentanaExitosa').modal('hide');
         limpiarCamposCurso();
         location.reload();

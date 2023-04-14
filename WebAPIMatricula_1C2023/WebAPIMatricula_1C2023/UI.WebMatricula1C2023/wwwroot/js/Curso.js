@@ -13,7 +13,7 @@
 
     $("#btnMensajeExitoso").click(function () {
         $('#modalVentanaExitosa').modal('hide');
-        limpiarCampos();
+        limpiarCamposCurso();
         location.reload();
     });
 
@@ -29,9 +29,9 @@
                     type: 'POST',
                     data: {
                         Nombre: document.getElementById("IDAgregarCursoNombre").value,
-                        Creditos: document.getElementById("IDAgregarCursoCreditos").value,
+                        Creditos: parseInt(document.getElementById("IDAgregarCursoCreditos").value, 10),
                         Horario: document.getElementById("IDAgregarCursoHorario").value,
-                        Cupo: document.getElementById("IDAgregarCursoCupo").value,
+                        Cupo: parseInt(document.getElementById("IDAgregarCursoCupo").value, 10),
                         Estado: document.getElementById("IDAgregarCursoEstado").value
 
                     },
@@ -39,7 +39,7 @@
                     cache: false,
                     //contentType: 'application/json',
                     success: function (result) {
-                        limpiarCampos();
+                        limpiarCamposCurso();
                         $('#modalVentanaExitosa').modal('show');
                     },
                     error: function (request, status, err) {
@@ -64,7 +64,7 @@
                     cache: false,
                     //contentType: 'application/json',
                     success: function (result) {
-                        limpiarCampos();
+                        limpiarCamposCurso();
                         $('#modalVentanaExitosa').modal('show');
                     },
                     error: function (request, status, err) {
@@ -76,7 +76,7 @@
     });
 
     $("#btnCancelarCurso").click(function () {
-        limpiarCampos();
+        limpiarCamposCurso();
     });
 
 
@@ -106,10 +106,11 @@
                 Codigo: codigoCurso
             },
             async: true,
+            dataType: 'json',
             cache: false,
             //contentType: 'application/json',
             success: function (result) {
-                limpiarCampos();
+                limpiarCamposCurso();
                 $('#modalVentanaEliminarCurso').modal('hide');
                 $('#modalVentanaExitosa').modal('show');
             },
@@ -134,14 +135,14 @@
 });
 
 
-function limpiarCampos() {
+function limpiarCamposCurso() {
     $('#modalAgregarCurso').modal('hide');
-
+    
     document.getElementById("IDAgregarCursoCodigo").value = "";
     document.getElementById("IDAgregarCursoNombre").value = "";
     document.getElementById("IDAgregarCursoCreditos").value = "";
     document.getElementById("IDAgregarCursoHorario").value = "";
-    document.getElementById("IDAgregarCursoCupo").value = "":
+    document.getElementById("IDAgregarCursoCupo").value = "";
     document.getElementById("IDAgregarCursoEstado").value = "";
 
     $("IDAgregarCursoNombre").css('border', '1px solid #ced4da');
@@ -149,6 +150,7 @@ function limpiarCampos() {
     $("IDAgregarCursoHorario").css('border', '1px solid #ced4da');
     $("IDAgregarCursoCupo").css('border', '1px solid #ced4da');
     $("IDAgregarCursoEstado").css('border', '1px solid #ced4da');
+    
 }
 
 
@@ -160,7 +162,6 @@ function validarCamposCurso() {
     var agregarCursoHorario = document.getElementById("IDAgregarCursoHorario").value;
     var agregarCursoCupo = document.getElementById("IDAgregarCursoCupo").value;
     var agregarCursoEstado = document.getElementById("IDAgregarCursoEstado").value;
-
 
 
     if (agregarCursoNombre == "") {
@@ -191,7 +192,6 @@ function validarCamposCurso() {
         $('#IDAgregarCursoCupo').css('border', '1px solid #ced4da');
     }
 
-
     return bandera;
 
 }
@@ -210,7 +210,7 @@ function VerDetalleCurso(codigo) {
         // contentType: 'application/json',
         success: function (response) {
             document.getElementById("IDAgregarCursoEstado").value = response.estado;
-            document.getElementById("IDAgregarCursoNombre").value = response.nombreCompleto;
+            document.getElementById("IDAgregarCursoNombre").value = response.Nombre;
             document.getElementById("IDAgregarCursoCreditos").value = response.Creditos;
             document.getElementById("IDAgregarCursoHorario").value = response.Horario;
             document.getElementById("IDAgregarCursoCupo").value = response.Cupo;

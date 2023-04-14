@@ -52,7 +52,7 @@ namespace UI.WebMatricula1C2023.Logica
 
         public async Task<Models.Curso.Salida.EliminarCurso> EliminarCurso(Models.Curso.Entrada.EliminarCurso pDatos, string token)
         {
-            string encabezado = "Curso/AgregarCurso";
+            string encabezado = "Curso/EliminarCurso";
             string cuerpo = JsonConvert.SerializeObject(pDatos);
 
             string respuesta = await lnConsumoAPI.ConsumirAPI(encabezado, cuerpo, token);

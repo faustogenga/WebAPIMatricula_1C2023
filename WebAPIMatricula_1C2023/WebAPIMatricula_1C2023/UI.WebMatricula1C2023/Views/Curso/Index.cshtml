@@ -19,28 +19,29 @@
                         <th>Nombre</th>
                         <th>Creditos</th>
                         <th>Horario</th>
-                        <th>Estado</th>
                         <th>Cupo</th>
+                        <th>Estado</th>
+                        <th>Acciones</th>
                     </tr>
                 </thead>
                 <tbody>
                     @foreach (var item in Model)
                     {
                         <tr>
-                            <td id='NombreParam'>
+                            <td id='IdentificacionParam'>
                                 @Html.DisplayFor(modelItem => item.Nombre)
                             </td>
-                            <td id='CreditosParam'>
+                            <td id='NombreParam'>
                                 @Html.DisplayFor(modelItem => item.Creditos)
                             </td>
-                            <td id='HorarioParam'>
+                            <td id='CorreoElectronicoParam'>
                                 @Html.DisplayFor(modelItem => item.Horario)
+                            </td>
+                            <td id='CorreoElectronicoParam'>
+                                @Html.DisplayFor(modelItem => item.Cupo)
                             </td>
                             <td id='EstadoParam'>
                                 @Html.DisplayFor(modelItem => item.Estado)
-                            </td>
-                            <td id='CupoParam'>
-                                @Html.DisplayFor(modelItem => item.Cupo)
                             </td>
                             <td style="align-items:center">
                                 <a name="btnEditarCurso" data-id="@item.Codigo" style="color: #1A2DF3"><i class="fa fa-edit"></i></a>
@@ -66,23 +67,23 @@
                         <input class="form-control" id="IDAgregarCursoCodigo" disabled placeholder="Sin asignar">
                     </div>
                     <div style="margin-top: 3%">
-                        <label for="exampleInputEmail1">Digite el nombre:</label>
+                        <label for="exampleInputEmail1">Digite el Nombre:</label>
                         <input class="form-control" id="IDAgregarCursoNombre">
                     </div>
                     <div style="margin-top: 3%">
-                        <label for="exampleInputEmail1">Digite los creditos:</label>
+                        <label for="exampleInputEmail1">Digite los Creditos:</label>
                         <input class="form-control" id="IDAgregarCursoCreditos">
                     </div>
                     <div style="margin-top: 3%">
-                        <label for="exampleInputEmail1">Digite el horario:</label>
+                        <label for="exampleInputEmail1">Digite el Horario:</label>
                         <input class="form-control" id="IDAgregarCursoHorario">
                     </div>
                     <div style="margin-top: 3%">
-                        <label for="exampleInputEmail1">Digite el cupo:</label>
+                        <label for="exampleInputEmail1">Digite el Cupo:</label>
                         <input class="form-control" id="IDAgregarCursoCupo">
                     </div>
                     <div style="margin-top: 3%">
-                        <label for="exampleInputEmail1">Digite el estado:</label>
+                        <label for="exampleInputEmail1">Digite el Estado:</label>
                         <select id="IDAgregarCursoEstado" class="select form-control">
                             <option value="Activo" selected>Activo</option>
                             <option value="Inactivo">Inactivo</option>

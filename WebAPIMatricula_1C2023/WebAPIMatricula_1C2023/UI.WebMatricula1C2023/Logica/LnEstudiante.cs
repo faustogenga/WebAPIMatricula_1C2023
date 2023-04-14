@@ -55,7 +55,7 @@ namespace UI.WebMatricula1C2023.Logica
 
         public async Task<Models.Estudiante.Salida.EliminarEstudiante> EliminarEstudiante(Models.Estudiante.Entrada.EliminarEstudiante pDatos, string token)
         {
-            string encabezado = "Estudiante/AgregarEstudiante";
+            string encabezado = "Estudiante/EliminarEstudiante";
             string cuerpo = JsonConvert.SerializeObject(pDatos);
 
             string respuesta = await lnConsumoAPI.ConsumirAPI(encabezado, cuerpo, token);

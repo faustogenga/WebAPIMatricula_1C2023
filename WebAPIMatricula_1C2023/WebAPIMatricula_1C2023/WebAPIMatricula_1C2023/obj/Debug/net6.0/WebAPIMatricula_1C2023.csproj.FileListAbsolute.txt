@@ -363,11 +363,11 @@ C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\Web
 C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\obj\Debug\net6.0\WebAPIMatricula_1C2023.pdb
 C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\obj\Debug\net6.0\WebAPIMatricula_1C2023.genruntimeconfig.cache
 C:\Users\faust\OneDrive - ULACIT ED CR\ULACIT\ULACIT Cuatri #7\Servicios WEB\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\obj\Debug\net6.0\ref\WebAPIMatricula_1C2023.dll
-C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\bin\Debug\net6.0\appsettings.json
 C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\bin\Debug\net6.0\WebAPI.deps.json
 C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\bin\Debug\net6.0\WebAPI.runtimeconfig.json
 C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\bin\Debug\net6.0\WebAPI.exe
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\bin\Debug\net6.0\appsettings.json
 C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\bin\Debug\net6.0\WebAPIMatricula_1C2023.exe
 C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\bin\Debug\net6.0\WebAPIMatricula_1C2023.deps.json
 C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\bin\Debug\net6.0\WebAPIMatricula_1C2023.runtimeconfig.json

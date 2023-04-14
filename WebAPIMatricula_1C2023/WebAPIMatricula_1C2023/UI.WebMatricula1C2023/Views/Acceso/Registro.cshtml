@@ -1,5 +1,4 @@
-﻿@model UI.WebMatricula1C2023.Models.Users.RegisterModel
-@{
+﻿@{
     Layout = "~/Views/Shared/_ExternalLayout.cshtml";
 }
 <section class="vh-100 gradient-custom-2">
@@ -9,74 +8,84 @@
                 <div class="card shadow-2-strong card-registration" style="border-radius: 15px;">
                     <div class="card-body p-4 p-md-5">
                         <h3 class="mb-4 pb-2 pb-md-0 mb-md-5">Registro</h3>
-                        @using (Html.BeginForm("Registrarme", "Acceso", FormMethod.Post))
-                        {
-                            <form>
-                                <div class="row">
-                                    <div class="col-md-6 mb-4">
-                                        <div class="form-outline">
-                                            @Html.TextBoxFor(model => model.NombreCompleto, new {@class = "form-control" })
-                                            <label class="form-label" for="NombreCompleto">Nombre Completo</label>
-                                        </div>
-                                    </div>
+                        <form>
+                            <div class="row">
+                                <div class="col-md-6 mb-4">
 
-                                    <div class="col-md-6 mb-4 d-flex align-items-center">
-                                        <div class="form-outline datepicker w-100">
-                                            @Html.TextBoxFor(model => model.Identificacion, new {@class = "form-control" })
-                                            <label for="identificacion" class="form-label">Identificación</label>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="row">
-                                    <div class="col-md-6 mb-4">
-                                        <div class="form-outline datepicker w-100">
-                                            @Html.TextBoxFor(model => model.Username, new {@class = "form-control" })
-                                            <label for="username" class="form-label">Username</label>
-                                        </div>
-
-                                    </div>
-                                    <div class="col-md-6 mb-4 pb-2">
-
-                                        <div class="form-outline">
-                                            @Html.TextBoxFor(model => model.CorreoElectronico, new {@class = "form-control" })
-                                            <label class="form-label" for="emailAddress">Correo electrónico</label>
-                                        </div>
-
-                                    </div>
-
-
-                                </div>
-
-                                <div class="row">
-
-                                    <div class="col-md-6 mb-4 pb-2">
-                                        <div class="form-outline">
-                                            @Html.PasswordFor(model => model.Password, new {@class = "form-control" })
-                                            <label class="form-label" for="password">Password</label>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-6 mb-4 pb-2">
-                                        <div class="form-outline">
-                                            @Html.DropDownListFor(model => model.Estado, new SelectList(new[] { "Activo", "Inactivo" }), new { @class = "select form-control" })
-                                            <label class="form-label" for="">Estado</label>
-                                        </div>
+                                    <div class="form-outline">
+                                        <input type="text" id="firstName" class="form-control form-control" />
+                                        <label class="form-label" for="firstName">Nombre</label>
                                     </div>
 
                                 </div>
-                                <div class="mt-4 pt-2">
-                                    <input class="btn btn-primary" type="submit" value="Registrarme" />
-                                    @if (ViewData.ModelState.ErrorCount > 0)
-                                    {
-                                        <div class="alert alert-danger hide" role="alert">
-                                            @Html.ValidationMessage("LogOnError")
-                                        </div>
-                                    }
+                                <div class="col-md-6 mb-4">
+
+                                    <div class="form-outline">
+                                        <input type="text" id="lastName" class="form-control form-control" />
+                                        <label class="form-label" for="lastName">Apellidos</label>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6 mb-4 d-flex align-items-center">
+
+                                    <div class="form-outline datepicker w-100">
+                                        <input type="text" class="form-control form-control" id="birthdayDate" />
+                                        <label for="identificacion" class="form-label">Identificación</label>
+                                    </div>
+
+                                </div>
+                                <div class="col-md-6 mb-4">
+                                    <div class="form-outline datepicker w-100">
+                                        <input type="text" class="form-control form-control" id="birthdayDate" />
+                                        <label for="username" class="form-label">Username</label>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6 mb-4 pb-2">
+
+                                    <div class="form-outline">
+                                        <input type="email" id="emailAddress" class="form-control form-control" />
+                                        <label class="form-label" for="emailAddress">Correo electrónico</label>
+                                    </div>
+
+                                </div>
+                                <div class="col-md-6 mb-4 pb-2">
+
+                                    <div class="form-outline">
+                                        <input type="tel" id="phoneNumber" class="form-control form-control" />
+                                        <label class="form-label" for="phoneNumber">Teléfono</label>
+                                    </div>
                                 </div>
 
-                            </form>
-                        }
+                                <div class="col-md-6 mb-4 pb-2">
+                                    <div class="form-outline">
+                                        <input type="password" id="password" class="form-control form-control" />
+                                        <label class="form-label" for="password">Password</label>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6 mb-4 pb-2">
+                                    <div class="form-outline">
+                                        <select id="IDAgregarEstudianteEstado" class="select form-control">
+                                            <option value="Activo" selected>Activo</option>
+                                            <option value="Inactivo">Inactivo</option>
+                                        </select>
+                                        <label class="form-label" for="password">Estado</label>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="mt-4 pt-2">
+                                <input class="btn btn-primary" type="submit" value="Registrarme" />
+                            </div>
+
+                        </form>
                     </div>
                 </div>
             </div>

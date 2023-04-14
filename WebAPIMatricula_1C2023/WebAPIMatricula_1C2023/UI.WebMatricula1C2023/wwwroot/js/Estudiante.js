@@ -104,7 +104,6 @@
                 Codigo: codigoEstudiante
             },
             async: true,
-            dataType: 'json',
             cache: false,
             //contentType: 'application/json',
             success: function (result) {

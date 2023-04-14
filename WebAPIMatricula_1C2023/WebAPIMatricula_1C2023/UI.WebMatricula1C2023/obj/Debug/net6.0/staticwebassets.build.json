@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "P+h/B00cOJEnl4GoGxgoKNv1Nr1q79eSz3coUy+RrAU=",
+  "Hash": "82RSKFYyYre10RZswjNqJ/F8S5pg2AFZi5seTLnuFMs=",
   "Source": "UI.WebMatricula1C2023",
   "BasePath": "_content/UI.WebMatricula1C2023",
   "Mode": "Default",
@@ -865,6 +865,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\ULACIT.png"
+    },
+    {
+      "Identity": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\Curso.js",
+      "SourceId": "UI.WebMatricula1C2023",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\",
+      "BasePath": "_content/UI.WebMatricula1C2023",
+      "RelativePath": "js/Curso.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Curso.js"
     },
     {
       "Identity": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\dashboard.js",

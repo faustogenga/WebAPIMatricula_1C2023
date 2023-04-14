@@ -197,6 +197,10 @@
       "PackagePath": "staticwebassets\\img\\ULACIT.png"
     },
     {
+      "Id": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\Curso.js",
+      "PackagePath": "staticwebassets\\js\\Curso.js"
+    },
+    {
       "Id": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\Estudiante.js",
       "PackagePath": "staticwebassets\\js\\Estudiante.js"
     },

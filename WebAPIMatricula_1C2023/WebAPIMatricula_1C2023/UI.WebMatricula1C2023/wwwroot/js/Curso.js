@@ -210,10 +210,10 @@ function VerDetalleCurso(codigo) {
         // contentType: 'application/json',
         success: function (response) {
             document.getElementById("IDAgregarCursoEstado").value = response.estado;
-            document.getElementById("IDAgregarCursoNombre").value = response.Nombre;
-            document.getElementById("IDAgregarCursoCreditos").value = response.Creditos;
-            document.getElementById("IDAgregarCursoHorario").value = response.Horario;
-            document.getElementById("IDAgregarCursoCupo").value = response.Cupo;
+            document.getElementById("IDAgregarCursoNombre").value = response.nombre;
+            document.getElementById("IDAgregarCursoCreditos").value = response.creditos;
+            document.getElementById("IDAgregarCursoHorario").value = response.horario;
+            document.getElementById("IDAgregarCursoCupo").value = response.cupo;
             document.getElementById("IDAgregarCursoCodigo").value = response.codigo;
             $('#modalAgregarCurso').modal('show');
         },

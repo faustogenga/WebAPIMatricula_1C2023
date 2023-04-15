@@ -12,7 +12,7 @@ namespace UI.WebMatricula1C2023.Logica
             lnConsumoAPI = new LnConsumoAPI();
         }
 
-        public async Task<Models.Gira.Salida.VerTodasGiras> VerTodosGiras(Models.Gira.Entrada.VerTodasGiras pDatos, string token)
+        public async Task<Models.Gira.Salida.VerTodasGiras> VerTodasGiras(Models.Gira.Entrada.VerTodasGiras pDatos, string token)
         {
             string encabezado = "Gira/VerTodasGiras";
             string cuerpo = JsonConvert.SerializeObject(pDatos);

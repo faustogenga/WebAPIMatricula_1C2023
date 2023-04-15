@@ -16,7 +16,7 @@ namespace UI.WebMatricula1C2023.Controllers
 
             var usuarioActual = HttpContext.Session.GetObjectFromJson<Models.Users.User>("UsuarioActual");
 
-            var listaGiras = await lnGira.VerTodosGiras(parametros, usuarioActual.Token);
+            var listaGiras = await lnGira.VerTodasGiras(parametros, usuarioActual.Token);
 
             ////////////////***********GRAFICOS CHART JS//////////////////////*********/
             var random = new Random();

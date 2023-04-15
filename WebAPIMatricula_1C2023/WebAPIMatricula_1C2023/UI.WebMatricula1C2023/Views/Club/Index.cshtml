@@ -1,0 +1,180 @@
+﻿@model IEnumerable<UI.WebMatricula1C2023.Models.Club.Salida.DatosClubes>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+<main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+    <br />
+    <h2>Gestión de Clubes</h2>
+
+    <div class="container-fluid">
+        <br />
+        <div style="width:100%; margin:0 auto;">
+            <button id='btnAbrirDialogAgregarClub' class="btn btn-primary" style="background-color: #1A2DF3; width:10%">Agregar</button>
+            <br /><br />
+            <table class="display" id="ClubesTabla" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>Tipo</th>
+                        <th>Nombre</th>
+                        <th>Horario</th>
+                        <th>Ubicacion</th>
+                        <th>Contacto</th>
+                        <th>Encargado</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td id='NombreParam'>
+                                @Html.DisplayFor(modelItem => item.Tipo)
+                            </td>
+                            <td id='CorreoElectronicoParam'>
+                                @Html.DisplayFor(modelItem => item.Nombre)
+                            </td>
+                            <td id='EstadoParam'>
+                                @Html.DisplayFor(modelItem => item.Horario)
+                            </td>
+                            <td id='EstadoParam'>
+                                @Html.DisplayFor(modelItem => item.Ubicacion)
+                            </td>
+                            <td id='EstadoParam'>
+                                @Html.DisplayFor(modelItem => item.Contacto)
+                            </td>
+                            <td id='EstadoParam'>
+                                @Html.DisplayFor(modelItem => item.Encargado)
+                            </td>
+                            <td style="align-items:center">
+                                <a name="btnEditarClub" data-id="@item.Codigo" style="color: #1A2DF3"><i class="fa fa-edit"></i></a>
+                                <a name="btnEliminarClub" data-id="@item.Codigo" style="color: #1A2DF3"><i class="fa fa-trash"></i></a>
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div id="modalAgregarClub" class="modal fade" role="dialog">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Agregar Club</h4>
+                </div>
+                <br />
+                <div style="width: 80%; margin-left: 10%" class="modal-body">
+                    <div>
+                        <label for="exampleInputEmail1">Código de Curso:</label>
+                        <input class="form-control" id="IDAgregarClubCodigo" disabled placeholder="Sin asignar">
+                    </div>
+                    <div style="margin-top: 3%">
+                        <label for="exampleInputEmail1">Digite el Nombre:</label>
+                        <input class="form-control" id="IDAgregarClubNombre">
+                    </div>
+                    <div style="margin-top: 3%">
+                        <label for="exampleInputEmail1">Digite el Horario:</label>
+                        <input class="form-control" id="IDAgregarClubHorario">
+                    </div>
+                    <div style="margin-top: 3%">
+                        <label for="exampleInputEmail1">Digite la Ubicacion:</label>
+                        <input class="form-control" id="IDAgregarClubUbicacion">
+                    </div>
+                    <div style="margin-top: 3%">
+                        <label for="exampleInputEmail1">Digite la Contacto:</label>
+                        <input class="form-control" id="IDAgregarClubContacto">
+                    </div>
+                    <div style="margin-top: 3%">
+                        <label for="exampleInputEmail1">Digite la Encargado:</label>
+                        <input class="form-control" id="IDAgregarClubEncargado">
+                    </div>
+                    <div style="margin-top: 3%">
+                        <label for="exampleInputEmail1">Digite el Tipo:</label>
+                        <select id="IDAgregarClubTipo" class="select form-control">
+                            <option value="Club Deportivo" selected>Club Deportivo</option>
+                            <option value="Club Artistico">Club Artistico</option>
+                            <option value="Club de Ciudadania">Club de Ciudadania</option>
+                        </select>
+                    </div>
+                </div>
+                <br />
+                <div class="modal-footer">
+                    <button id='btnCancelarClub' type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+                    <button id='btnAgregarClub' type="button" class="btn btn-primary" style="background-color: #1A2DF3">Aceptar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="modalVentanaExitosa" class="modal fade" role="dialog">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <br />
+                <div style="width: 80%; margin-left: 10%" class="modal-body">
+                    <p>Transacción realizada exitosamente</p>
+                </div>
+                <br />
+                <div class="modal-footer">
+                    <button id='btnMensajeExitosoClub' type="button" class="btn btn-primary" style="background-color: #1A2DF3">Aceptar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="modalVentanaEliminarClub" class="modal fade" role="dialog">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <br />
+                <div style="width: 80%; margin-left: 10%" class="modal-body">
+                    <p>¿Está seguro que desea eliminar el Club?</p>
+                </div>
+                <br />
+                <div class="modal-footer">
+                    <button id='btnAceptarEliminarClubConfirmacion' type="button" class="btn btn-primary" style="background-color: #1A2DF3">Aceptar</button>
+                    <button id='btnCancelarEliminarClubConfirmacion' type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <div id="canvas-holder" style="width:40%">
+            <canvas id="vistas-chart"></canvas>
+        </div>
+        <script>
+            new Chart(document.getElementById("vistas-chart"), {
+                type: 'pie',
+                data: {
+                    labels: @Html.Raw(ViewBag.Etiquetas),
+                    datasets: [{
+                        label: "Clubes por tipo",
+                        backgroundColor: @Html.Raw(ViewBag.Colores) ,
+                        data: @Html.Raw(@ViewBag.Valores)
+                                    }]
+                },
+                options: {
+                    title: {
+                        display: true,
+                        text: 'Clubes por tipo'
+                    }
+                }
+            });
+        </script>
+    </div>
+    <link href="~/Content/font-awesome.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+    @section scripts
+        {
+        <script src="~/Scripts/Club.js"></script>
+        <script type="text/javascript" src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+        <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.2.2/js/dataTables.buttons.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min.js"></script>
+        <script type="text/javascript" src="https://cdn.rawgit.com/bpampuch/pdfmake/0.1.18/build/pdfmake.min.js"></script>
+        <script type="text/javascript" src="https://cdn.rawgit.com/bpampuch/pdfmake/0.1.18/build/vfs_fonts.js"></script>
+        <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.2.2/js/buttons.html5.min.js"></script>
+
+    }
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js" integrity="sha384-uO3SXW5IuS1ZpFPKugNNWqTZRRglnUJK6UAZ/gxOX80nxEkN9NcGZTftn6RzhGWE" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js" integrity="sha384-zNy6FEbO50N+Cg5wap8IKA4M/ZnLJgzc6w2NqACZaK0u0FXfOWRRJOnQtpZun8ha" crossorigin="anonymous"></script>

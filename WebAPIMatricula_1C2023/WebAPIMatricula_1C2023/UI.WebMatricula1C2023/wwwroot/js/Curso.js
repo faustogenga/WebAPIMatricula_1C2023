@@ -12,7 +12,7 @@
     });
 
     $("#btnMensajeExitosoCurso").click(function () {
-        $('#modalVentanaExitosa').modal('hide');
+        $('#modalVentanaExitosaCurso').modal('hide');
         limpiarCamposCurso();
         location.reload();
     });
@@ -40,7 +40,7 @@
                     //contentType: 'application/json',
                     success: function (result) {
                         limpiarCamposCurso();
-                        $('#modalVentanaExitosa').modal('show');
+                        $('#modalVentanaExitosaCurso').modal('show');
                     },
                     error: function (request, status, err) {
                     }
@@ -65,7 +65,7 @@
                     //contentType: 'application/json',
                     success: function (result) {
                         limpiarCamposCurso();
-                        $('#modalVentanaExitosa').modal('show');
+                        $('#modalVentanaExitosaCurso').modal('show');
                     },
                     error: function (request, status, err) {
                     }
@@ -112,7 +112,7 @@
             success: function (result) {
                 limpiarCamposCurso();
                 $('#modalVentanaEliminarCurso').modal('hide');
-                $('#modalVentanaExitosa').modal('show');
+                $('#modalVentanaExitosaCurso').modal('show');
             },
             error: function (request, status, err) {
             }

@@ -12,7 +12,7 @@
     });
 
     $("#btnMensajeExitosoClub").click(function () {
-        $('#modalVentanaExitosa').modal('hide');
+        $('#modalVentanaExitosaClub').modal('hide');
         limpiarCamposClub();
         location.reload();
     });
@@ -41,7 +41,7 @@
                     //contentType: 'application/json',
                     success: function (result) {
                         limpiarCamposClub();
-                        $('#modalVentanaExitosa').modal('show');
+                        $('#modalVentanaExitosaClub').modal('show');
                     },
                     error: function (request, status, err) {
                     }
@@ -67,7 +67,7 @@
                     //contentType: 'application/json',
                     success: function (result) {
                         limpiarCamposClub();
-                        $('#modalVentanaExitosa').modal('show');
+                        $('#modalVentanaExitosaClub').modal('show');
                     },
                     error: function (request, status, err) {
                     }
@@ -114,7 +114,7 @@
             success: function (result) {
                 limpiarCamposClub();
                 $('#modalVentanaEliminarClub').modal('hide');
-                $('#modalVentanaExitosa').modal('show');
+                $('#modalVentanaExitosaClub').modal('show');
             },
             error: function (request, status, err) {
             }

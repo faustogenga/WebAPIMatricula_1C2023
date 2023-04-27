@@ -12,7 +12,7 @@
     });
 
     $("#btnMensajeExitosoCarrera").click(function () {
-        $('#modalVentanaExitosa').modal('hide');
+        $('#modalVentanaExitosaCarrera').modal('hide');
         limpiarCamposCarrera();
         location.reload();
     });
@@ -39,7 +39,7 @@
                     //contentType: 'application/json',
                     success: function (result) {
                         limpiarCamposCarrera();
-                        $('#modalVentanaExitosa').modal('show');
+                        $('#modalVentanaExitosaCarrera').modal('show');
                     },
                     error: function (request, status, err) {
                     }
@@ -64,7 +64,7 @@
                     //contentType: 'application/json',
                     success: function (result) {
                         limpiarCamposCarrera();
-                        $('#modalVentanaExitosa').modal('show');
+                        $('#modalVentanaExitosaCarrera').modal('show');
                     },
                     error: function (request, status, err) {
                     }
@@ -111,7 +111,7 @@
             success: function (result) {
                 limpiarCamposCarrera();
                 $('#modalVentanaEliminarCarrera').modal('hide');
-                $('#modalVentanaExitosa').modal('show');
+                $('#modalVentanaExitosaCarrera').modal('show');
             },
             error: function (request, status, err) {
             }

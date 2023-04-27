@@ -12,7 +12,7 @@
     });
 
     $("#btnMensajeExitosoGira").click(function () {
-        $('#modalVentanaExitosa').modal('hide');
+        $('#modalVentanaExitosaGira').modal('hide');
         limpiarCamposGira();
         location.reload();
     });
@@ -42,7 +42,7 @@
                     //contentType: 'application/json',
                     success: function (result) {
                         limpiarCamposGira();
-                        $('#modalVentanaExitosa').modal('show');
+                        $('#modalVentanaExitosaGira').modal('show');
                     },
                     error: function (request, status, err) {
                     }
@@ -69,7 +69,7 @@
                     //contentType: 'application/json',
                     success: function (result) {
                         limpiarCamposGira();
-                        $('#modalVentanaExitosa').modal('show');
+                        $('#modalVentanaExitosaGira').modal('show');
                     },
                     error: function (request, status, err) {
                     }
@@ -116,7 +116,7 @@
             success: function (result) {
                 limpiarCamposGira();
                 $('#modalVentanaEliminarGira').modal('hide');
-                $('#modalVentanaExitosa').modal('show');
+                $('#modalVentanaExitosaGira').modal('show');
             },
             error: function (request, status, err) {
             }

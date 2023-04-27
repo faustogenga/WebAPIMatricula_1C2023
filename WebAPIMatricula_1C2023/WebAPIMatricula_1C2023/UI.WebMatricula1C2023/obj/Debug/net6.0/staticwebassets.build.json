@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1HutOrVume2hNTtnDduwn3HOGJYKx/Bv76n4O+3EqRQ=",
+  "Hash": "+oyQph5A+7pHHBYleAq1y/oEYzoE61Ez8qb8vicR+70=",
   "Source": "UI.WebMatricula1C2023",
   "BasePath": "_content/UI.WebMatricula1C2023",
   "Mode": "Default",
@@ -969,6 +969,23 @@
       "OriginalItemSpec": "wwwroot\\js\\Gira.js"
     },
     {
+      "Identity": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\Profesor.js",
+      "SourceId": "UI.WebMatricula1C2023",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\",
+      "BasePath": "_content/UI.WebMatricula1C2023",
+      "RelativePath": "js/Profesor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Profesor.js"
+    },
+    {
       "Identity": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\Residencia.js",
       "SourceId": "UI.WebMatricula1C2023",
       "SourceType": "Discovered",
@@ -1001,6 +1018,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\VehiculoMarchamo.js",
+      "SourceId": "UI.WebMatricula1C2023",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\",
+      "BasePath": "_content/UI.WebMatricula1C2023",
+      "RelativePath": "js/VehiculoMarchamo.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\VehiculoMarchamo.js"
     },
     {
       "Identity": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

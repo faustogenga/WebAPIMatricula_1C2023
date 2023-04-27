@@ -12,7 +12,7 @@
     });
 
     $("#btnMensajeExitosoResidencia").click(function () {
-        $('#modalVentanaExitosa').modal('hide');
+        $('#modalVentanaExitosaResidencia').modal('hide');
         limpiarCamposResidencia();
         location.reload();
     });
@@ -40,7 +40,7 @@
                     //contentType: 'application/json',
                     success: function (result) {
                         limpiarCamposResidencia();
-                        $('#modalVentanaExitosa').modal('show');
+                        $('#modalVentanaExitosaResidencia').modal('show');
                     },
                     error: function (request, status, err) {
                     }
@@ -64,7 +64,7 @@
                     //contentType: 'application/json',
                     success: function (result) {
                         limpiarCamposResidencia();
-                        $('#modalVentanaExitosa').modal('show');
+                        $('#modalVentanaExitosaResidencia').modal('show');
                     },
                     error: function (request, status, err) {
                     }
@@ -111,7 +111,7 @@
             success: function (result) {
                 limpiarCamposResidencia();
                 $('#modalVentanaEliminarResidencia').modal('hide');
-                $('#modalVentanaExitosa').modal('show');
+                $('#modalVentanaExitosaResidencia').modal('show');
             },
             error: function (request, status, err) {
             }

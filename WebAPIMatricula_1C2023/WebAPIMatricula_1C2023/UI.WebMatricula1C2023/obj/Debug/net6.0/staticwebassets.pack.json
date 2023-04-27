@@ -217,8 +217,16 @@
       "PackagePath": "staticwebassets\\js\\Gira.js"
     },
     {
+      "Id": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\Profesor.js",
+      "PackagePath": "staticwebassets\\js\\Profesor.js"
+    },
+    {
       "Id": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\Residencia.js",
       "PackagePath": "staticwebassets\\js\\Residencia.js"
+    },
+    {
+      "Id": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\VehiculoMarchamo.js",
+      "PackagePath": "staticwebassets\\js\\VehiculoMarchamo.js"
     },
     {
       "Id": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\dashboard.js",

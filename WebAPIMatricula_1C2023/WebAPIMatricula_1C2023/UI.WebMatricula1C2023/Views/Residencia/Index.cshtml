@@ -1,0 +1,176 @@
+﻿@model IEnumerable<UI.WebMatricula1C2023.Models.Residencia.Salida.DatosResidencia>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+<main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+    <br />
+    <h2>Gestión de Residencias</h2>
+
+    <div class="container-fluid">
+        <br />
+        <div style="width:100%; margin:0 auto;">
+            <button id='btnAbrirDialogAgregarResidencia' class="btn btn-primary" style="background-color: #1A2DF3; width:10%">Agregar</button>
+            <br /><br />
+            <table class="display" id="ResidenciasTabla" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>Cedula</th>
+                        <th>Pais</th>
+                        <th>Provincia</th>
+                        <th>Canton</th>
+                        <th>Distrito</th>
+                        <th>DirExacta</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td id='NombreParam'>
+                                @Html.DisplayFor(modelItem => item.Cedula)
+                            </td>
+                            <td id='CorreoElectronicoParam'>
+                                @Html.DisplayFor(modelItem => item.Pais)
+                            </td>
+                            <td id='HorarioParam'>
+                                @Html.DisplayFor(modelItem => item.Provincia)
+                            </td>
+                            <td id='UbicacionParam'>
+                                @Html.DisplayFor(modelItem => item.Canton)
+                            </td>
+                            <td id='ContactoParam'>
+                                @Html.DisplayFor(modelItem => item.Distrito)
+                            </td>
+                            <td id='EncargadoParam'>
+                                @Html.DisplayFor(modelItem => item.DirExacta)
+                            </td>
+                            <td style="align-items:center">
+                                <a name="btnEditarResidencia" data-id="@item.Codigo" style="color: #1A2DF3"><i class="fa fa-edit"></i></a>
+                                <a name="btnEliminarResidencia" data-id="@item.Codigo" style="color: #1A2DF3"><i class="fa fa-trash"></i></a>
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div id="modalAgregarResidencia" class="modal fade" role="dialog">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Agregar Residencia</h4>
+                </div>
+                <br />
+                <div style="width: 80%; margin-left: 10%" class="modal-body">
+                    <div>
+                        <label for="exampleInputEmail1">Código de Residencia:</label>
+                        <input class="form-control" id="IDAgregarResidenciaCodigo" disabled placeholder="Sin asignar">
+                    </div>
+                    <div style="margin-top: 3%">
+                        <label for="exampleInputEmail1">Digite su Cedula:</label>
+                        <input class="form-control" id="IDAgregarResidenciaCedula">
+                    </div>
+                    <div style="margin-top: 3%">
+                        <label for="exampleInputEmail1">Digite el Pais:</label>
+                        <input class="form-control" id="IDAgregarResidenciaPais">
+                    </div>
+                    <div style="margin-top: 3%">
+                        <label for="exampleInputEmail1">Digite la Provincia:</label>
+                        <input class="form-control" id="IDAgregarResidenciaProvincia">
+                    </div>
+                    <div style="margin-top: 3%">
+                        <label for="exampleInputEmail1">Digite el Canton:</label>
+                        <input class="form-control" id="IDAgregarResidenciaCanton">
+                    </div>
+                    <div style="margin-top: 3%">
+                        <label for="exampleInputEmail1">Digite el Distrito:</label>
+                        <input class="form-control" id="IDAgregarResidenciaDistrito">
+                    </div>
+                    <div style="margin-top: 3%">
+                        <label for="exampleInputEmail1">Digite el Direccion Exacta:</label>
+                        <input class="form-control" id="IDAgregarResidenciaDirExacta">
+                    </div>
+                </div>
+                <br />
+                <div class="modal-footer">
+                    <button id='btnCancelarResidencia' type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+                    <button id='btnAgregarResidencia' type="button" class="btn btn-primary" style="background-color: #1A2DF3">Aceptar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="modalVentanaExitosa" class="modal fade" role="dialog">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <br />
+                <div style="width: 80%; margin-left: 10%" class="modal-body">
+                    <p>Transacción realizada exitosamente</p>
+                </div>
+                <br />
+                <div class="modal-footer">
+                    <button id='btnMensajeExitosoResidencia' type="button" class="btn btn-primary" style="background-color: #1A2DF3">Aceptar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="modalVentanaEliminarResidencia" class="modal fade" role="dialog">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <br />
+                <div style="width: 80%; margin-left: 10%" class="modal-body">
+                    <p>¿Está seguro que desea eliminar el Residencia?</p>
+                </div>
+                <br />
+                <div class="modal-footer">
+                    <button id='btnAceptarEliminarResidenciaConfirmacion' type="button" class="btn btn-primary" style="background-color: #1A2DF3">Aceptar</button>
+                    <button id='btnCancelarEliminarResidenciaConfirmacion' type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <div id="canvas-holder" style="width:40%">
+            <canvas id="vistas-chart"></canvas>
+        </div>
+        <script>
+            new Chart(document.getElementById("vistas-chart"), {
+                type: 'pie',
+                data: {
+                    labels: @Html.Raw(ViewBag.Etiquetas),
+                    datasets: [{
+                        label: "Residencias por Provincia",
+                        backgroundColor: @Html.Raw(ViewBag.Colores) ,
+                        data: @Html.Raw(@ViewBag.Valores)
+                                                }]
+                },
+                options: {
+                    title: {
+                        display: true,
+                        text: 'Residencias por Provincia'
+                    }
+                }
+            });
+        </script>
+    </div>
+    <link href="~/Content/font-awesome.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+    @section scripts
+        {
+        <script src="~/Scripts/Residencia.js"></script>
+        <script type="text/javascript" src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+        <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.2.2/js/dataTables.buttons.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min.js"></script>
+        <script type="text/javascript" src="https://cdn.rawgit.com/bpampuch/pdfmake/0.1.18/build/pdfmake.min.js"></script>
+        <script type="text/javascript" src="https://cdn.rawgit.com/bpampuch/pdfmake/0.1.18/build/vfs_fonts.js"></script>
+        <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.2.2/js/buttons.html5.min.js"></script>
+
+    }
+</main>
+<script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js" integrity="sha384-uO3SXW5IuS1ZpFPKugNNWqTZRRglnUJK6UAZ/gxOX80nxEkN9NcGZTftn6RzhGWE" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js" integrity="sha384-zNy6FEbO50N+Cg5wap8IKA4M/ZnLJgzc6w2NqACZaK0u0FXfOWRRJOnQtpZun8ha" crossorigin="anonymous"></script>

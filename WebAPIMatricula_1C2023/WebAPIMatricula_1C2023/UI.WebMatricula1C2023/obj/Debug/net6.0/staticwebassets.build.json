@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QK0RTXM8j5Yk4OKBjdgplqdY2hXv2esMmfg6mLCdYIA=",
+  "Hash": "1HutOrVume2hNTtnDduwn3HOGJYKx/Bv76n4O+3EqRQ=",
   "Source": "UI.WebMatricula1C2023",
   "BasePath": "_content/UI.WebMatricula1C2023",
   "Mode": "Default",
@@ -867,6 +867,23 @@
       "OriginalItemSpec": "wwwroot\\img\\ULACIT.png"
     },
     {
+      "Identity": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\Carrera.js",
+      "SourceId": "UI.WebMatricula1C2023",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\",
+      "BasePath": "_content/UI.WebMatricula1C2023",
+      "RelativePath": "js/Carrera.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Carrera.js"
+    },
+    {
       "Identity": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\Club.js",
       "SourceId": "UI.WebMatricula1C2023",
       "SourceType": "Discovered",
@@ -950,6 +967,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Gira.js"
+    },
+    {
+      "Identity": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\Residencia.js",
+      "SourceId": "UI.WebMatricula1C2023",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\",
+      "BasePath": "_content/UI.WebMatricula1C2023",
+      "RelativePath": "js/Residencia.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Residencia.js"
     },
     {
       "Identity": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\UI.WebMatricula1C2023\\wwwroot\\js\\site.js",

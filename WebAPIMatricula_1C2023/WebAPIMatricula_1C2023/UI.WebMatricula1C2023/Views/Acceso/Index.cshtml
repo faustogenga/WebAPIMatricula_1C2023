@@ -1,0 +1,64 @@
+﻿@model UI.WebMatricula1C2023.Models.Users.AuthenticateModel
+@{
+    Layout = "~/Views/Shared/_ExternalLayout.cshtml";
+}
+<section class="h-100 gradient-form" style="background-color: #eee;">
+    <div class="container py-5 h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-xl-10">
+                <div class="card rounded-3 text-black">
+                    <div class="row g-0">
+                        <div class="col-lg-6">
+                            <div class="card-body p-md-5 mx-md-4">
+
+                                <div class="text-center">
+
+                                    <img src="~/img/ULACIT.png"
+                                         style="width: 185px;" alt="logo">
+                                    <h4 class="mt-1 mb-5 pb-1">Sistema de Matricula</h4>
+                                </div>
+                                <p>Por favor ingrese a su cuenta</p>
+                                @using (Html.BeginForm("Index", "Acceso", FormMethod.Post))
+                                {
+                                    <form class="login100-form validate-form">
+                                        <div class="form-outline mb-4">
+                                            @Html.TextBoxFor(model => model.Username, new { placeholder="Nombre de usuario" , @class = "form-control" })
+                                        </div>
+
+                                        <div class="form-outline mb-4">
+                                            @Html.PasswordFor(model => model.Password, new { placeholder="Contraseña",  @class = "form-control" })
+                                        </div>
+
+                                        <div class="text-center pt-1 mb-5 pb-1">
+                                            <button id="btnAutenticar" class="btn btn-primary btn-block fa-lg gradient-custom-2 mb-3" type="submit">Ingresar</button>
+                                            <br />
+                                            @if (ViewData.ModelState.ErrorCount > 0)
+                                            {
+                                                <div class="alert alert-danger hide" role="alert">
+                                                    @Html.ValidationMessage("LogOnError")
+                                                </div>
+                                            }
+                                        </div>
+
+                                        <div class="d-flex align-items-center justify-content-center pb-4">
+                                            <p class="mb-0 me-2">¿No tiene una cuenta?</p>
+                                            <a class="text-muted" asp-controller="Acceso" asp-action="Registro">Regístrese</a>
+                                        </div>
+                                    </form>
+                                }
+                            </div>
+                        </div>
+                        <div class="col-lg-6 d-flex align-items-center gradient-custom-2">
+                            <div class="text-white px-3 py-4 p-md-5 mx-md-4">
+                                <h5 class="mb-4">Bienvenido al sistema de Matricula de ULACIT</h5>
+                                <p class="small mb-0">
+                                    En este sistema puede administrar la matrícula de los estudiantes, ingresar profesores, cursos y demás.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

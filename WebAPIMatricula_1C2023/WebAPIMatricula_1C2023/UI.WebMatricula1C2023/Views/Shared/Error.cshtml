@@ -1,0 +1,21 @@
+﻿@{
+    Layout = "~/Views/Shared/_ExternalLayout.cshtml";
+}
+<br />
+<h3>
+    Ocurrió un error procesando la solicitud.<br />
+    El equipo de ULACIT ha sido notificado y está trabajando en la solución.
+</h3>
+<h5>También puede contactarnos a  <a href="mailto:ulacit@ulacit.com">ulacit@ulacit.com</a></h5>
+<hr />
+<h3>Detalles del error.</h3>
+<div class="alert alert-danger">
+    <h5>Mensaje de la excepción</h5>
+    <hr />
+    <p>@ViewBag.ExceptionMessage</p>
+</div>
+<div class="alert alert-danger">
+    <h5>Detalle de la excepción</h5>
+    <hr />
+    <p>@ViewBag.Stacktrace</p>
+</div>

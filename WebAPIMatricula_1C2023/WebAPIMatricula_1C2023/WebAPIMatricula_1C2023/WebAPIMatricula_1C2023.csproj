@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.27.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Api.Bll.Carrera\Api.Bll.Carrera.csproj" />
+    <ProjectReference Include="..\Api.Bll.Club\Api.Bll.Club.csproj" />
+    <ProjectReference Include="..\Api.Bll.Curso\Api.Bll.Curso.csproj" />
+    <ProjectReference Include="..\Api.Bll.Error\Api.Bll.Error.csproj" />
+    <ProjectReference Include="..\Api.Bll.Estudiante\Api.Bll.Estudiante.csproj" />
+    <ProjectReference Include="..\Api.Bll.Gira\Api.Bll.Gira.csproj" />
+    <ProjectReference Include="..\Api.Bll.Profesor\Api.Bll.Profesor.csproj" />
+    <ProjectReference Include="..\Api.Bll.Residencia\Api.Bll.Residencia.csproj" />
+    <ProjectReference Include="..\Api.Bll.VehiculoMarchamo\Api.Bll.VehiculoMarchamo.csproj" />
+    <ProjectReference Include="..\Api.Dal.Carrera\Api.Dal.Carrera.csproj" />
+    <ProjectReference Include="..\Api.Dal.Club\Api.Dal.Club.csproj" />
+    <ProjectReference Include="..\Api.Dal.Error\Api.Dal.Error.csproj" />
+    <ProjectReference Include="..\Api.Dal.Estudiante\Api.Dal.Estudiante.csproj" />
+    <ProjectReference Include="..\Api.Dal.General\Api.Dal.General.csproj" />
+    <ProjectReference Include="..\Api.Dal.Gira\Api.Dal.Gira.csproj" />
+    <ProjectReference Include="..\Api.Dal.Profesor\Api.Dal.Profesor.csproj" />
+    <ProjectReference Include="..\Api.Dal.Residencia\Api.Dal.Residencia.csproj" />
+    <ProjectReference Include="..\Api.Dal.VehiculoMarchamo\Api.Dal.VehiculoMarchamo.csproj" />
+    <ProjectReference Include="..\Api.Dat.Curso\Api.Dal.Curso.csproj" />
+    <ProjectReference Include="..\Api.Dto.Carrera\Api.Dto.Carrera.csproj" />
+    <ProjectReference Include="..\Api.Dto.Club\Api.Dto.Club.csproj" />
+    <ProjectReference Include="..\Api.Dto.Curso\Api.Dto.Curso.csproj" />
+    <ProjectReference Include="..\Api.Dto.Error\Api.Dto.Error.csproj" />
+    <ProjectReference Include="..\Api.Dto.Estudiante\Api.Dto.Estudiante.csproj" />
+    <ProjectReference Include="..\Api.Dto.General\Api.Dto.General.csproj" />
+    <ProjectReference Include="..\Api.Dto.Gira\Api.Dto.Gira.csproj" />
+    <ProjectReference Include="..\Api.Dto.Profesor\Api.Dto.Profesor.csproj" />
+    <ProjectReference Include="..\Api.Dto.Residencia\Api.Dto.Residencia.csproj" />
+    <ProjectReference Include="..\Api.Dto.VehiculoMarchamo\Api.Dto.VehiculoMarchamo.csproj" />
+    <ProjectReference Include="..\WebAPI\WebAPI.csproj" />
+  </ItemGroup>
+
+</Project>

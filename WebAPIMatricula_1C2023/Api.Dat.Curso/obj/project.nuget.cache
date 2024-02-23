@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3OKlqQU2AvQNDOoIy7Nk0Xj3ufCWUyLJ/hMttbh1UY+HYrqmCBNDIr1oAvXsXixCMG8Ee/fsrSS7erBb7ahk6A==",
+  "dgSpecHash": "b+QA9jE6oKFLgy7mFiaJx/W1LrBruukrBXFR5YjQgPNLoU/Rvs1+Tvm3LeBiWKqGWi2AnH4UIArv3SwHYA/Pyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\Api.Dat.Curso\\Api.Dal.Curso.csproj",
+  "projectFilePath": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\Api.Dat.Curso\\Api.Dal.Curso.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\faust\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\faust\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",

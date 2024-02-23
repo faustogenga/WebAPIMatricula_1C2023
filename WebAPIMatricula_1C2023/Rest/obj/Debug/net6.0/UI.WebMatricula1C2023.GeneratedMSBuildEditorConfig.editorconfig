@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UI.WebMatricula1C2023
+build_property.RootNamespace = UI.WebMatricula1C2023
+build_property.ProjectDir = C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\UI.WebMatricula1C2023\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\UI.WebMatricula1C2023
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Acceso/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Acceso/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXFJlZ2lzdHJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Carrera/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FycmVyYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Club/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Curso/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Estudiante/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Gira/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lyYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Perfil/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyZmlsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Profesor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Residencia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzaWRlbmNpYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Shared/_ExternalLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FeHRlcm5hbExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/VehiculoMarchamo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bG9NYXJjaGFtb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faust/Desktop/ULACIT LOCAL VS/ServiciosWeb/WebAPIMatricula_1C2023/WebAPIMatricula_1C2023/UI.WebMatricula1C2023/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-na4d2mr9ba

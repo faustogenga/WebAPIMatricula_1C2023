@@ -11,6 +11,6 @@ All resources are used for learning / school related purposes. \
 
 Includes 
 
-**Rest API with Swagger UI**
-**UI developed with JS, Bootstrap template in order to efficiently request and modify our data**
-**Xamarin Mobile App conected to this API can be also found in the following repo**
+**Rest API with Swagger UI** \
+**UI developed with JS, Bootstrap template in order to efficiently request and modify our data** \
+**Xamarin Mobile App conected to this API can be also found in the following repo** \

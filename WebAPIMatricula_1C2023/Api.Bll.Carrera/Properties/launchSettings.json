@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Api.Bll.Carrera": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:61110;http://localhost:61111"
+    }
+  }
+}

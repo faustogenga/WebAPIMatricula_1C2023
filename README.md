@@ -1,5 +1,5 @@
 # College Registration WEB API
-## An Web Service ASP.NET
+## Web Service API on ASP.NET
 
 ## Description
 Collaboratively Developed an ASP.NET API with DTO/DAL/BLL components and authentication for our SQL Server database. 

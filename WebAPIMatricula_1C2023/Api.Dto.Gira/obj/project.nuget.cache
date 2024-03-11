@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R8fGqlIzyCKTVJ6/d43Y1WvHG44+7E2kjggWMhzPYo6COV4O9At1r46djfLMH28uBgXHxT9T6lRnwJDz/vC+RA==",
+  "dgSpecHash": "qLttByzdlpYf5CIx7ees2xeOx9Hi939EEnaZa4RygZZbhAmc+wDHH8UnG0zcm/pIw2w55MzZzpewleL4/9GZ6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\Api.Dto.Gira\\Api.Dto.Gira.csproj",
+  "projectFilePath": "C:\\Users\\faust\\Desktop\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\Api.Dto.Gira\\Api.Dto.Gira.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

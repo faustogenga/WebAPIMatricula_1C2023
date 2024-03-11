@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3vq6jRCGnglnYuS1UMqUm1qE0ELbYjG+8fui2eqtjR68rwBKjxahCql2Q+aDFhx+h1aNyEmrzBIkhZL6jZ6urw==",
+  "dgSpecHash": "qQbACJipFdoBL0qHl+A1xsXyjWR1nVhW1neMDo4kAWu+0n5HifzTGar0oZ+0M9sC554vynYQ5/7np1EQxEGTJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\Api.Dto.Curso\\Api.Dto.Curso.csproj",
+  "projectFilePath": "C:\\Users\\faust\\Desktop\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\Api.Dto.Curso\\Api.Dto.Curso.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

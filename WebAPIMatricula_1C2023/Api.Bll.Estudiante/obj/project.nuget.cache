@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yIQARueifo9qKlq6XXYPrnKA3Nz2ZuraMHLcDD+QkgAvPNTCWoEGjK922tjIRYM8vQmUDFbghE9GVZWu3MYcsA==",
+  "dgSpecHash": "AkdqnwmS+Y/EYArmILXaHioTg/s+T2+j3bsLYaMHgr33ELqzyKlu/KXdo23GzzxwnTS49Ogbrz2kN0icPdsECg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\Api.Bll.Estudiante\\Api.Bll.Estudiante.csproj",
+  "projectFilePath": "C:\\Users\\faust\\Desktop\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\Api.Bll.Estudiante\\Api.Bll.Estudiante.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

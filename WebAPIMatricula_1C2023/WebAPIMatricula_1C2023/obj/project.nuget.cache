@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2o94iFV8WcVoB12fOLGErEi29ypaMLmmQRQV35wMF4UFWyme6lnuqDO54Ll5s/2nqwdLwLN/yWvhwfRwquitEg==",
+  "dgSpecHash": "W/9btChPMpF61RM4yY+hsksy98psmN7vsLxKtYsWGTv/V2MpGdJ5k3M6Y+rTYHeX5Dx3iaaTAOilEzKdlBMk4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023.csproj",
+  "projectFilePath": "C:\\Users\\faust\\Desktop\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\faust\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\faust\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

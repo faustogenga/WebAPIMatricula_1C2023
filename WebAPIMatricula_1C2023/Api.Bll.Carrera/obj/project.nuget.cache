@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1S5PzlUxmz8UsinX2ESAF+88/A6+xqzQ3cVJywGzzLglg+57dRZ4w/5C/i60+FmU/RUGyt0y0WUmuiEi7L7MDQ==",
+  "dgSpecHash": "wQ0EPpEg6th+GaDJm/luRyRy58C0Qdd/vIGfMA3yMiTF5MIA4uqIWc1RNumIdfLP0qHd5aEbGNhl3SbCvAcKww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\Api.Bll.Carrera\\Api.Bll.Carrera.csproj",
+  "projectFilePath": "C:\\Users\\faust\\Desktop\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\Api.Bll.Carrera\\Api.Bll.Carrera.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

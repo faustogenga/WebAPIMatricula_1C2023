@@ -58,3 +58,18 @@ C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAP
 C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Estudiante\obj\Debug\net6.0\refint\Api.Dto.Estudiante.dll
 C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Estudiante\obj\Debug\net6.0\Api.Dto.Estudiante.pdb
 C:\Users\faust\Desktop\ULACIT LOCAL VS\ServiciosWeb\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Estudiante\obj\Debug\net6.0\ref\Api.Dto.Estudiante.dll
+C:\Users\faust\Desktop\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Estudiante\bin\Debug\net6.0\Api.Dto.Estudiante.deps.json
+C:\Users\faust\Desktop\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Estudiante\bin\Debug\net6.0\Api.Dto.Estudiante.dll
+C:\Users\faust\Desktop\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Estudiante\bin\Debug\net6.0\Api.Dto.Estudiante.pdb
+C:\Users\faust\Desktop\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Estudiante\bin\Debug\net6.0\Api.Dto.General.dll
+C:\Users\faust\Desktop\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Estudiante\bin\Debug\net6.0\Api.Dto.General.pdb
+C:\Users\faust\Desktop\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Estudiante\obj\Debug\net6.0\Api.Dto.Estudiante.csproj.AssemblyReference.cache
+C:\Users\faust\Desktop\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Estudiante\obj\Debug\net6.0\Api.Dto.Estudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faust\Desktop\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Estudiante\obj\Debug\net6.0\Api.Dto.Estudiante.AssemblyInfoInputs.cache
+C:\Users\faust\Desktop\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Estudiante\obj\Debug\net6.0\Api.Dto.Estudiante.AssemblyInfo.cs
+C:\Users\faust\Desktop\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Estudiante\obj\Debug\net6.0\Api.Dto.Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\faust\Desktop\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Estudiante\obj\Debug\net6.0\Api.Dto.Estudiante.csproj.CopyComplete
+C:\Users\faust\Desktop\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Estudiante\obj\Debug\net6.0\Api.Dto.Estudiante.dll
+C:\Users\faust\Desktop\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Estudiante\obj\Debug\net6.0\refint\Api.Dto.Estudiante.dll
+C:\Users\faust\Desktop\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Estudiante\obj\Debug\net6.0\Api.Dto.Estudiante.pdb
+C:\Users\faust\Desktop\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\WebAPIMatricula_1C2023\Api.Dto.Estudiante\obj\Debug\net6.0\ref\Api.Dto.Estudiante.dll

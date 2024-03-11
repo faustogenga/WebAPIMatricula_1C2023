@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "FO/drqb5GVG4G+jv6vInhjRH4GGOjuEtrgwNoALcqxg=",
+  "Hash": "FzTcsfdubiEHzYG6uBFJ7EYa0Raa+/mfUt8G2Xzd36c=",
   "Source": "WebAPIMatricula_1C2023",
   "BasePath": "_content/WebAPIMatricula_1C2023",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPI\\WebAPI.csproj",
+      "Identity": "C:\\Users\\faust\\Desktop\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPI\\WebAPI.csproj",
       "Version": 2,
       "Source": "WebAPI",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

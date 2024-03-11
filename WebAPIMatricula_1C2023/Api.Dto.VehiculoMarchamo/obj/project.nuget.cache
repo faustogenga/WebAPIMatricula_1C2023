@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "acFYKU5PtQAOxOcQp7gYNjb8bF9FvXc9J+Jst6XZISliYjDudgJRUhrKWN5wuh1qhmi8AwMyicUTeXcKUBTdFA==",
+  "dgSpecHash": "1RuzTtC79siE0obRbt1ORT47bsuncisbIN8uaP1FYTVY2E3TfFsbwyL1ukFOW5g8IhdtKJjX+qWz1Y82UJl3LQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\faust\\Desktop\\ULACIT LOCAL VS\\ServiciosWeb\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\Api.Dto.VehiculoMarchamo\\Api.Dto.VehiculoMarchamo.csproj",
+  "projectFilePath": "C:\\Users\\faust\\Desktop\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\WebAPIMatricula_1C2023\\Api.Dto.VehiculoMarchamo\\Api.Dto.VehiculoMarchamo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
